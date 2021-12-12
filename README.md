@@ -45,4 +45,6 @@ from rq import Queue
 
 ```
 <hr>
+<a href="https://www.kaggle.com/aykhanpy" target="_blank">
 <img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
+</a>

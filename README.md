@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hy! My name is Abylaikhan and I am computer vision engineer.
+Hy! My name is Abylaikhan and I am:
+Computer vision engineer
+BC Student of Kazakh British Technical University
+Musician
+Debater
 <img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
 

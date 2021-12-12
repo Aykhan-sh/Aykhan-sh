@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
+Hy! My name is Abylaikhan and I am computer vision engineer.
+<img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
 

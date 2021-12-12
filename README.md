@@ -1,10 +1,9 @@
-# Hello
-I am Abylaikhan
-Computer vision engineer<br>
-Kaggle competition expert<br>
-BC Student of KBTU<br>
-Musician<br>
-Debater<br>
+# Hello! My name is Abylaikhan
+<li>Computer vision engineer</li><br>
+<li>Kaggle competition expert</li><br>
+<li>BC Student of KBTU</li><br>
+<li>Musician</li><br>
+<li>Debater</li><br>
 
 # Contacts
 a.turlasov@gmail.com <br>
@@ -12,12 +11,6 @@ a.turlasov@gmail.com <br>
 <a href="https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/">LinkedIn</a> <br>
 <a href="https://almaty.hh.kz/resume/7257cfadff074a74fe0039ed1f3241734d7066">CV</a> <br>
 <a href="https://www.kaggle.com/aykhanpy">Kaggle</a> <br>
-
-<hr>
-<a href="https://www.kaggle.com/aykhanpy" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
-</a>
-
 
 ## Stack:
 <li>Docker</li>
@@ -62,4 +55,14 @@ from flask import Flask
 import redis
 from rq import Queue
 ```
-
+# Badges
+<hr>
+<a href="https://www.kaggle.com/aykhanpy" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
+</a>
+<a href="https://www.kaggle.com/aykhanpy" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/notebook">
+</a>
+<a href="https://www.kaggle.com/aykhanpy" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/discussion">
+</a>

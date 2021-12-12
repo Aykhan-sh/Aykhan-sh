@@ -5,8 +5,27 @@ Kaggle competition expert<br>
 BC Student of KBTU<br>
 Musician<br>
 Debater<br>
-## Stack
-#### Python:
+
+# Contacts
+<a href="https://t.me/Aykhan_txt">Telegram</a> <br>
+<a href="https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/">LinkedIn</a> <br>
+<a href="https://almaty.hh.kz/resume/7257cfadff074a74fe0039ed1f3241734d7066">CV</a> <br>
+<a href="https://www.kaggle.com/aykhanpy">Kaggle</a> <br>
+<a href=""></a> <br>
+
+<hr>
+<a href="https://www.kaggle.com/aykhanpy" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
+</a>
+
+
+## Stack:
+<li>Docker</li>
+<li>Gunicorn</li>
+<li>Git</li>
+<li>Linux</li>
+
+#### Python Stack:
 
 
 ```python
@@ -41,10 +60,5 @@ import PyVista as pv
 from flask import Flask
 import redis
 from rq import Queue
-
-
 ```
-<hr>
-<a href="https://www.kaggle.com/aykhanpy" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/competition">
-</a>
+

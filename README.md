@@ -11,6 +11,7 @@ Debater<br>
 <a href="https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/">LinkedIn</a> <br>
 <a href="https://almaty.hh.kz/resume/7257cfadff074a74fe0039ed1f3241734d7066">CV</a> <br>
 <a href="https://www.kaggle.com/aykhanpy">Kaggle</a> <br>
+a.turlasov@gmail.com
 
 <hr>
 <a href="https://www.kaggle.com/aykhanpy" target="_blank">

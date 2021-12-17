@@ -1,18 +1,6 @@
-# Hello! My name is Abylaikhan
-<li>Computer vision engineer</li><br>
-<li>Kaggle competition expert</li><br>
-<li>BC Student of KBTU</li><br>
-<li>Musician</li><br>
-<li>Debater</li><br>
+<img src="preview.jpg">
 
-# Contacts
-a.turlasov@gmail.com <br>
-<a href="https://t.me/Aykhan_txt">Telegram</a> <br>
-<a href="https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/">LinkedIn</a> <br>
-<a href="https://almaty.hh.kz/resume/7257cfadff074a74fe0039ed1f3241734d7066">CV</a> <br>
-<a href="https://www.kaggle.com/aykhanpy">Kaggle</a> <br>
-
-## Stack:
+# Stack:
 <li>Docker</li>
 <li>Gunicorn</li>
 <li>Git</li>
@@ -66,3 +54,11 @@ from rq import Queue
 <a href="https://www.kaggle.com/aykhanpy" target="_blank">
 <img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/discussion">
 </a>
+
+
+# Contacts
+a.turlasov@gmail.com <br>
+<a href="https://t.me/Aykhan_txt">Telegram</a> <br>
+<a href="https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/">LinkedIn</a> <br>
+<a href="https://almaty.hh.kz/resume/7257cfadff074a74fe0039ed1f3241734d7066">CV</a> <br>
+<a href="https://www.kaggle.com/aykhanpy">Kaggle</a> <br>

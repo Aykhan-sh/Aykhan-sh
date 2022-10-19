@@ -43,6 +43,10 @@ from flask import Flask
 import redis
 from rq import Queue
 ```
+# LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/aykhancpp?theme=dark&font=Hind%20Vadodara&ext=heatmap)
+
+
 # Badges
 <hr>
 <a href="https://www.kaggle.com/aykhanpy" target="_blank">
@@ -53,9 +57,7 @@ from rq import Queue
 </a>
 <a href="https://www.kaggle.com/aykhanpy" target="_blank">
 <img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aykhanpy/discussion">
-</a>
-
-
+</a>   
 
 # Contacts
 a.turlasov@gmail.com <br>
